@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplikasi Pendataan 2</string>
+    <string name="name">Name</string>
+    <string name="hapus_data">Hapus Data</string>
+</resources>
